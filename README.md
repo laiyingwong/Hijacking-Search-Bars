@@ -1,4 +1,4 @@
 # -Hijacking-Google-Reddit-and-YouTube-search
 
 ## Screenshot
-![home screen](Assets/homescreen.png)
+![home screen](Assets/homepage.png)
