@@ -14,4 +14,6 @@ I built this project to solidify my understanding of the “action” attribute 
 
 ## 👏 Credits
 
-This project is based on HTML tutorial by Colt Steele.
+This project is based on HTML tutorial by Colt Steele. Below is the original version:
+
+![original version](Assets/initial-version.png)
